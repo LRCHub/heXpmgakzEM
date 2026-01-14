@@ -1,0 +1,110 @@
+# DJ OZMA – アゲ♂アゲ♂EVERY☆騎士
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.37] 1,2
+[00:14.10] 1,2,3,Oh!
+[00:18.60] 
+[00:16.15] Bounce with me Bounce with me
+[00:17.94] Bounce with me Bounce
+[00:19.75] Bounce with me Bounce with me
+[00:21.47] Bounce with me Bounce
+[00:23.97] Bounce with me Bounce with me
+[00:25.34] Bounce with me Bounce with me
+[00:26.77] Bounce with me Bounce with me
+[00:28.47] Bounce! Bounce! Bounce! Bounce!
+[00:43.97] 
+[00:30.48] Hello!
+[00:31.13] おう 迷ってんだったら
+[00:32.33] ここに来いよ (Hey!)
+[00:34.18] さぁ なんじゃそれ なんじゃそれ
+[00:35.76] イケイケGo! (Go!)
+[00:37.63] 一気にいったれ
+[00:38.57] 人生はアッという間
+[00:40.92] 相当 It's Soul 一生
+[00:42.66] 俺ら最高さGoing
+[00:47.66] 
+[00:44.60] ハイヨー!
+[00:45.27] やっぱそう あらら ヤバそう
+[00:47.93] マジなチューしよう 淫らなチューしよう (チューしよう!)
+[00:52.26] 出鱈目 生真面目 みじかめ希ボンヌ
+[00:53.96] Yeah Baby! (Yeah Baby!)
+[01:05.46] 
+[00:55.71] Bounce with me Bounce with me
+[00:57.79] Bounce! Bounce! Bounce! Bounce!
+[01:13.29] 
+[00:59.53] バリバリ☆Sunday Night
+[01:01.32] ラヴラヴ☆Monday Night
+[01:03.27] モテモテ☆Tuesday Night
+[01:04.92] Wednesday Night オーライ?
+[01:07.83] I need you I want you
+[01:09.94] 嗚呼 なんとゆう!?
+[01:12.33] (Yeah Baby! Yeah Baby!)
+[01:23.83] 
+[01:14.29] イケイケ☆Friday Night
+[01:16.09] ヌゲヌゲ☆Saturday Night
+[01:17.89] アゲアゲ☆Every Night
+[01:19.66] いいんじゃない?
+[01:20.86] 今夜
+[01:22.13] 踊り狂え
+[01:24.94] 朝まで
+[01:26.44] 
+[01:35.04] "Let me hear you say!"
+[01:36.82] Na-Na-NaNaNa NaNaNa NaNaNa
+[01:39.37] Na-Na-NaNaNa Bounce with me Bounce
+[01:43.28] Na-Na-NaNaNa NaNaNa NaNaNa
+[01:46.50] Na-Na-NaNaNa...
+[01:54.00] 
+[01:50.44] Bounce with me Bounce with me
+[01:52.50] Bounce with me Bounce
+[01:54.27] Bounce with me Bounce with me
+[01:56.06] Bounce with me Bounce
+[01:57.87] Bounce with me Bounce with me
+[01:59.67] Bounce with me Bounce with me
+[02:01.33] Bounce with me Bounce with me
+[02:03.10] Bounce! Bounce! Bounce! Bounce!
+[02:18.60] 
+[02:05.03] そんなら今度は何をしよう? (Oh Baby!)
+[02:08.80] ここでそう また乾杯しようYo!
+[02:12.22] 世界の終わり それは今日
+[02:15.33] だったらどうしよう 永遠に寄り添おう
+[02:19.04] Just two of us
+[02:20.74] 無理は承知さ
+[02:22.62] 派手に鳴らそう
+[02:24.47] 小粋なチューブラーベル
+[02:26.28] 意思が固そな 唇
+[02:28.56] to メンソール Yo Baby!
+[02:30.59] I want you I need you なんとゆう!?
+[02:45.09] 
+[02:34.27] バリバリ☆Sunday Night
+[02:35.95] ラヴラヴ☆Monday Night
+[02:37.88] モテモテ☆Tuesday Night
+[02:39.64] Wednesday Night オーライ?
+[02:42.23] I need you I want you
+[02:44.62] 嗚呼 なんとゆう!?
+[02:47.18] (Yeah Baby! Yeah Baby!)
+[02:58.68] 
+[02:48.77] イケイケ☆Friday Night
+[02:50.44] ヌゲヌゲ☆Saturday Night
+[02:52.26] アゲアゲ☆Every Night
+[02:54.05] いいんじゃない?
+[02:55.24] 今夜
+[02:56.50] 踊り狂おう
+[02:58.96] 裸で
+[02:59.96] 
+[03:09.51] "Just show me what you got!"
+[03:11.17] Na-Na-NaNaNa NaNaNa NaNaNa
+[03:14.33] Na-Na-NaNaNa Bounce with me Bounce
+[03:17.78] Na-Na-NaNaNa NaNaNa NaNaNa
+[03:21.01] Na-Na-NaNaNa...
+[03:28.51] 
+[03:23.14] Bounce with me Bounce with me
+[03:26.62] Bounce with me Bounce
+[03:28.51] Bounce with me Bounce with me
+[03:30.56] Bounce with me Bounce
+[03:32.36] Bounce with me Bounce with me
+[03:34.25] Bounce with me Bounce with me
+[03:36.01] Bounce with me Bounce with me
+[03:37.77] Bounce! Bounce! Bounce! Bounce!
+```
