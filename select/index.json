@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アゲ♂アゲ♂EVERY☆騎士",
+  "base_artist": "DJ OZMA",
+  "createdAt": "2026-01-14T03:45:28.510648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アゲ♂アゲ♂EVERY☆騎士",
+      "artist": "DJ OZMA",
+      "has_synced": true,
+      "path": "select/01_アゲ♂アゲ♂EVERY☆騎士_DJ_OZMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アゲ♂アゲ♂EVERY☆騎士",
+      "artist": "DJ OZMA",
+      "has_synced": false,
+      "path": "select/pl_01_アゲ♂アゲ♂EVERY☆騎士_DJ_OZMA.txt"
+    }
+  ]
+}
